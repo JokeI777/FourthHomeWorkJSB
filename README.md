@@ -20,4 +20,4 @@
 }
 ```
 Ссылки на полезную литературу как всегда в информационных ресурса  
-![Image alt](https://github.com/JokeI777/FourthHomeWorkJSB/Success_Post.png)  
+![Image alt](https://github.com/JokeI777/FourthHomeWorkJSB/Success_Post.png) 
